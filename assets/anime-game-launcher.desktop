@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=An Anime Game Launcher
-Icon=icon
-Exec=AppRun
+Icon=moe.launcher.an-anime-game-launcher
+Exec=an-anime-game-launcher
 Type=Application
 Categories=Game
 Terminal=false
