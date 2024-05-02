@@ -7,7 +7,7 @@
 %define build_output anime-game-launcher
 
 Name: an-anime-game-launcher
-Version: 3.9.5-rc1
+Version: 3.9.5-rc2
 Release: 1%{?dist}
 License: GPLv3
 Summary: An Anime Game launcher for Linux with telemetry disabling.
