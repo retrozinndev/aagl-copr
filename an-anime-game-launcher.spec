@@ -4,9 +4,10 @@
 %define icon_dir %{_datadir}/icons/hicolor/512x512/apps
 %define apps_dir %{_datadir}/applications
 %define app_id moe.launcher.%{app_name}
+%define build_output anime-game-launcher
 
 Name: an-anime-game-launcher
-Version: 3.9.5
+Version: 3.9.5-rc1
 Release: 1%{?dist}
 License: GPLv3
 Summary: An Anime Game launcher for Linux with telemetry disabling.
@@ -61,7 +62,7 @@ cargo build --release
 %install
 # copy binary
 mkdir -p %{buildroot}%{install_dir}
-cp -f target/release/%{name} %{buildroot}%{install_dir}
+cp -f target/release/%{build_output} %{buildroot}%{install_dir}
 # copy icon
 mkdir -p %{buildroot}%{icon_dir}
 cp -f assets/images/%{app_id}.png %{buildroot}%{icon_dir}
