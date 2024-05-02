@@ -6,7 +6,7 @@
   </gresource>
 
   <gresource prefix="/moe/launcher/an-anime-game-launcher/icons/hicolor/scalable/apps">
-    <file alias="moe.launcher.an-anime-game-launcher.png">images/icon.png</file>
+    <file alias="moe.launcher.an-anime-game-launcher.png">images/moe.launcher.an-anime-game-launcher.png</file>
   </gresource>
 
   <gresource prefix="/moe/launcher/an-anime-game-launcher/icons/scalable/actions">
