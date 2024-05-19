@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.9.6] - 08.05.2024
+
+### Added
+
+- Added 4.6.0 voiceovers sizes
+- Added Czech
+
+### Changed
+
+- Changed labels for the payment processing options
+- Changed one of translator's username
+
 ## [3.9.5] - 24.03.2024
 
 ### Added
@@ -467,7 +479,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <br>
 
-[unreleased]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.5...next
+[unreleased]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.6...next
+[3.9.6]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.5...3.9.6
 [3.9.5]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.4...3.9.5
 [3.9.4]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.3...3.9.4
 [3.9.3]: https://github.com/an-anime-team/an-anime-game-launcher/compare/3.9.2...3.9.3
